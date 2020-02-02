@@ -1,0 +1,9 @@
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\obj\Debug\App.Consumer.csprojAssemblyReference.cache
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\obj\Debug\App.Consumer.csproj.CoreCompileInputs.cache
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\bin\Debug\App.Consumer.exe.config
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\bin\Debug\App.Consumer.exe
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\bin\Debug\App.Consumer.pdb
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\bin\Debug\kafka-net.dll
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\obj\Debug\App.Consumer.csproj.CopyComplete
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\obj\Debug\App.Consumer.exe
+D:\Github\EventSourceApp\EventSourceApp\App.Consumer\obj\Debug\App.Consumer.pdb
